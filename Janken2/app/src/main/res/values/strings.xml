@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="myhand">じゃんけん</string>
+    <string name="button_paper">パー</string>
+    <string name="button_scissors">チョキ</string>
+    <string name="button_rock">グー</string>
+    <string name="janken_result">最初はグー</string>
+</resources>
